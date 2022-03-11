@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">Índice<br>
-<a href="#Sobre o Projeto">Sobre</a> •
+<a href="#sobre-o-projeto-">Sobre</a> •
 <a href="#Imagem">Imagem</a> •
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
