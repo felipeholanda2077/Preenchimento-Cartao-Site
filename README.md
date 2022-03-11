@@ -4,24 +4,24 @@
    </a>
 </p>
 
-# Sobre o Projeto 👨🏻‍💻
+<h1 align="center"> Sobre o Projeto 👨🏻‍💻</h1>
 
-<h4>Pagina para e-commerce, checkout de pagamento no Cartão</h4>
+<h4 align="center">Pagina para e-commerce, checkout de pagamento no Cartão</h4>
 
 <br>
 
-<p aling="center">Esse projeto...</p>
+<p align="center">Índice<br>
 <a href="#Sobre o Projeto">Sobre</a> •
 <a href="#Imagem">Imagem</a> •
-<a href="#Tecnologias">Tecnologias</a> •
-<a href="#Ferramentas">Ferramentas</a>
+<a href="#Tecnologias-">Tecnologias</a> •
+<a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
 <br>
 
-#### Imagem
+<h2 align="center">Imagem</h2>
 
-<h1 aling="center">
+<h1 align="center">
    <img alt="Readme" title="Readme" src="Site.png" />
 </h1>
 
@@ -38,5 +38,5 @@
   - [**VS CODE**](https://code.visualstudio.com/)
 
 <br>
-
-  Made with 💜 by FELIPE HOLANDA 👋🏻 [See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)
+  <h1 align="center">Siga-me</h1>
+  <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
