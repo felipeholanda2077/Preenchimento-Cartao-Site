@@ -17,7 +17,6 @@
 <a href="#Ferramentas">Ferramentas</a></p>
 
 <br>
-<br>
 
 <h2 align="center">Imagem</h2>
 
